@@ -2,7 +2,7 @@
 一款居于gojs 2.1.56的ER图
 
 # 效果图
-<img width="1000" alt="er sample1" src="https://github.com/user-attachments/assets/92c55325-3393-477c-837a-dafcb2a8cd30">
+<img width="800" alt="er sample1" src="https://github.com/user-attachments/assets/92c55325-3393-477c-837a-dafcb2a8cd30">
 
 
 
